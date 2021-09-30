@@ -10,7 +10,10 @@
 
 # ...............................
 
-
+#compare Actual number and guess number
+#if numbers are are same, Break the loop
+#if numbers are not same, retry the same
+#until get the right answer
 
 
 
