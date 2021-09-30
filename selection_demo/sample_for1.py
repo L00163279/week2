@@ -1,4 +1,4 @@
-#.............................
+# .............................
 
 # File: .py
 # Author - Muhammed Shafeeq Thottathil
@@ -8,4 +8,10 @@
 # Description :
 # Listening : 
 
-#...............................
+# ...............................
+for i in range(1,10):
+    if i==5:
+        print("bizz")
+    print("buzzz")
+
+print("\n")

@@ -1,4 +1,4 @@
-#.............................
+# .............................
 
 # File: .py
 # Author - Muhammed Shafeeq Thottathil
@@ -8,4 +8,8 @@
 # Description :
 # Listening : 
 
-#...............................
+# ...............................
+
+from string import ascii_lowercase
+for ch in ascii_lowercase:
+    print(ch)
